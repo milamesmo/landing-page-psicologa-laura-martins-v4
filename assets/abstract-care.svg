@@ -1,0 +1,18 @@
+<svg width="560" height="460" viewBox="0 0 560 460" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Ilustração abstrata de acolhimento</title>
+  <desc id="desc">Composição abstrata com formas orgânicas, linhas suaves e elementos naturais.</desc>
+  <rect width="560" height="460" rx="48" fill="#F8F1E7"/>
+  <path d="M109 316C75 272 71 213 101 167C132 120 192 86 251 99C310 112 338 174 384 206C430 238 493 239 512 278C532 318 510 396 455 423C401 450 315 427 248 406C181 386 143 360 109 316Z" fill="#D8C7B4"/>
+  <path d="M139 280C116 247 121 200 149 169C178 138 229 125 270 142C311 159 329 205 362 229C394 253 442 255 456 286C469 318 448 373 406 390C364 408 300 388 249 373C198 358 162 313 139 280Z" fill="#9DB69F"/>
+  <path d="M158 260C146 235 153 202 177 183C202 164 239 159 267 171C295 183 305 217 329 236C353 254 390 257 400 281C410 305 392 342 361 353C330 365 285 352 248 340C211 328 170 285 158 260Z" fill="#FBF7F0"/>
+  <path d="M183 326C221 289 278 269 337 278C364 282 388 291 409 305" stroke="#48624E" stroke-width="6" stroke-linecap="round"/>
+  <path d="M221 318C234 271 267 229 310 204" stroke="#48624E" stroke-width="6" stroke-linecap="round"/>
+  <path d="M250 298C236 253 241 204 267 165" stroke="#48624E" stroke-width="6" stroke-linecap="round"/>
+  <path d="M308 279C322 238 355 205 398 188" stroke="#48624E" stroke-width="6" stroke-linecap="round"/>
+  <path d="M310 204C295 200 281 191 271 178C262 166 258 151 260 137C276 138 291 146 301 159C311 172 314 188 310 204Z" fill="#48624E"/>
+  <path d="M267 165C250 164 234 157 223 145C212 133 207 117 208 101C226 102 242 110 253 123C264 135 269 150 267 165Z" fill="#48624E"/>
+  <path d="M398 188C383 178 373 163 369 146C365 130 369 113 379 99C395 109 406 124 410 141C414 158 410 175 398 188Z" fill="#48624E"/>
+  <circle cx="125" cy="104" r="18" fill="#C8B59F"/>
+  <circle cx="460" cy="125" r="26" fill="#E7DDD0"/>
+  <circle cx="438" cy="359" r="14" fill="#C8B59F"/>
+</svg>
