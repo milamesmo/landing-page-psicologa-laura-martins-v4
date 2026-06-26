@@ -29,6 +29,4 @@ A pagina apresenta uma profissional ficticia, seus formatos de atendimento, perg
 
 Este projeto e totalmente ficticio. Nome, CRP, telefone, textos profissionais e imagens foram criados apenas para fins de estudo e portfolio.
 
-## Como visualizar
 
-Abra o arquivo `index.html` no navegador.
